@@ -1,0 +1,52 @@
+{
+  "Denominations": [
+    {
+      "ValueInPence": 5000,
+      "Name": "£50"
+    },
+    {
+      "ValueInPence": 2000,
+      "Name": "£20"
+    },
+    {
+      "ValueInPence": 1000,
+      "Name": "£10"
+    },
+    {
+      "ValueInPence": 500,
+      "Name": "£5"
+    },
+    {
+      "ValueInPence": 200,
+      "Name": "£2"
+    },
+    {
+      "ValueInPence": 100,
+      "Name": "£1"
+    },
+    {
+      "ValueInPence": 50,
+      "Name": "50p"
+    },
+    {
+      "ValueInPence": 20,
+      "Name": "20p"
+    },
+    {
+      "ValueInPence": 10,
+      "Name": "10p"
+    },
+    {
+      "ValueInPence": 5,
+      "Name": "5p"
+    },
+    {
+      "ValueInPence": 2,
+      "Name": "2p"
+    },
+    {
+      "ValueInPence": 1,
+      "Name": "1p"
+    }
+  ]
+}
