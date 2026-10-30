@@ -12,4 +12,7 @@
     <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
   </None>
 </ItemGroup>
+	<ItemGroup>
+		<Compile Remove="UKChangeCalculator.Tests/**/*.cs" />
+	</ItemGroup>
 </Project>

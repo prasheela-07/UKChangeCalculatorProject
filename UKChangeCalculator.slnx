@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="UKChangeCalculator.csproj" />
+  <Project Path="UKChangeCalculator.Tests/UKChangeCalculator.Tests.csproj" Id="60aa90c8-3144-4b3f-aa49-3b8866dc50ef" />
 </Solution>
